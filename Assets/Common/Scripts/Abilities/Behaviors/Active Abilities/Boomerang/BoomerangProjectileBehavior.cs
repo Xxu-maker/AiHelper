@@ -4,6 +4,7 @@ using UnityEngine.Events;
 
 namespace OctoberStudio.Abilities
 {
+    //这个类实现了回旋镖道具的生成、运动和返回效果，使其在游戏中具有独特的玩法
     public class BoomerangProjectileBehavior : ProjectileBehavior
     {
         private static readonly int BOOMERANG_THROW_HASH = "Boomerang Throw".GetHashCode();

@@ -48,7 +48,7 @@ namespace OctoberStudio
         [SerializeField] float hitScaleAmount = 0.2f;
         [Tooltip("The color the enemy will flash when hit\n 敌人被击中时闪烁的颜色")]
         [SerializeField] Color hitColor = Color.white;
-
+        
         public EnemyData Data { get; private set; }
         public WaveOverride WaveOverride { get; protected set; }
 

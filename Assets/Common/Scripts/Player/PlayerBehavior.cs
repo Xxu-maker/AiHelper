@@ -21,7 +21,8 @@ namespace OctoberStudio
 
         [SerializeField] CharactersDatabase charactersDatabase;
 
-        [Header("Stats")]
+        [Header("Stats-状态参数")]
+        
         [SerializeField, Min(0.01f)] float speed = 2;
         [SerializeField, Min(0.1f)] float defaultMagnetRadius = 0.75f;
         [SerializeField, Min(1f)] float xpMultiplier = 1;
@@ -239,6 +240,7 @@ namespace OctoberStudio
             healthbar.AddHP(hp + GameController.UpgradesManager.GetUpgadeValue(UpgradeType.Healing));
         }
 
+        //复活
         public void Revive()
         {
             Character.PlayReviveAnimation();
@@ -342,7 +344,8 @@ namespace OctoberStudio
                 {
                     onPlayerDied?.Invoke();
                 }).SetUnscaledTime(true);
-
+                
+                //震动
                 GameController.VibrationManager.StrongVibration();
             } else
             {

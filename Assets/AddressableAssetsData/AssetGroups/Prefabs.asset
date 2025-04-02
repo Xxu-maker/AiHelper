@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0826391926eedac418d01a449070dfbd
+  m_SerializeEntries:
+  - m_GUID: 201f57151934f4c4db7cef2658ada3db
+    m_Address: Assets/Common/VFX
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3194fbd89f9e8e0458f7c071c9f6a67f
+    m_Address: Assets/Common/Sprites
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 427589b8343e7d945b68daf02e22a8c3
+    m_Address: Assets/Common/Scriptables
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69dbac71dc47ca844a3e8b92513e1338
+    m_Address: Assets/Common/Scenes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97df5e27bf5686447926de1f7fff9cb8
+    m_Address: Assets/Common/Materials
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a063267692c0ef042804645d70341b8c
+    m_Address: Assets/Common/Shaders
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad815780f62d01744918e4d999d1cd55
+    m_Address: Assets/Common/Textures
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6f0a7d19262b964687cc6667fd2bd73
+    m_Address: Assets/Common/Animations
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: caeb9a2c818bf0046a9a3d8711dbfe9e
+    m_Address: Assets/Common/Prefabs/Abilities
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dfa38f2d5db8841428d655a70d4483c0
+    m_Address: Assets/Common/Prefabs
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f49fe8ad09965794bbf385c0e9ee2ca1
+    m_Address: Assets/Common/Fonts
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb3945e19ce9a3f429fcf654aa44ee66
+    m_Address: Assets/Common/Audio
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 149aeeb2ad601014ba5e50d901e62b1c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: fa42252f8aad550408df02cc6610d592, type: 2}
+    - {fileID: 11400000, guid: 0920bd399e4db534b9a844eb2d9431e2, type: 2}

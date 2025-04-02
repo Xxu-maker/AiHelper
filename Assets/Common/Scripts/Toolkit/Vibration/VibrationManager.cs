@@ -8,6 +8,7 @@ using UnityEngine.InputSystem.WebGL;
 
 namespace OctoberStudio.Vibration
 {
+    //震动管理器
     public class VibrationManager : MonoBehaviour, IVibrationManager
     {
         private static VibrationManager instance;

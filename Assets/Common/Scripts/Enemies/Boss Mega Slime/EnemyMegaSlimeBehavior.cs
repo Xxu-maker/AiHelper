@@ -12,32 +12,32 @@ namespace OctoberStudio.Enemy
 
         [SerializeField] Animator animator;
 
-        [Header("Swords")]
-        [Tooltip("The prefab of the sword")]
+        [Header("Swords-武器")]
+        [Tooltip("The prefab of the sword \n 武器的预制件")]
         [SerializeField] GameObject swordProjectilePrefab;
-        [Tooltip("The amount of waves of the sword attack")]
+        [Tooltip("The amount of waves of the sword attack\n 武器攻击的波数")]
         [SerializeField] int swordsWavesCount = 3;
-        [Tooltip("Time between waves of the sword attack")]
+        [Tooltip("Time between waves of the sword attack\n 武器攻击波之间的时间")]
         [SerializeField] float durationBetweenSwordWaves = 1f;
-        [Tooltip("The damage of each sword")]
+        [Tooltip("The damage of each sword\n 每把武器的伤害")]
         [SerializeField] float swordDamage = 10f;
-        [Tooltip("The swords will spawn at this points")]
+        [Tooltip("The swords will spawn at this points\n 武器将在这些点生成")]
         [SerializeField] List<Transform> swordSpawnPoints;
 
-        [Header("Moving")]
-        [Tooltip("Time the slime moves between attacks")]
+        [Header("Moving-移动")]
+        [Tooltip("Time the slime moves between attacks\n 史莱姆在攻击之间移动的时间")]
         [SerializeField] float movingDuration = 3f;
 
-        [Header("Spawning")]
-        [Tooltip("The type of an enemy that will be spawned during this attack")]
+        [Header("Spawning-生成")]
+        [Tooltip("The type of an enemy that will be spawned during this attack\n 在此攻击期间将生成的敌人类型")]
         [SerializeField] EnemyType spawnedEnemyType = EnemyType.Slime;
-        [Tooltip("The amount of waves of the spawn attack")]
+        [Tooltip("The amount of waves of the spawn attack\n 生成攻击的波数")]
         [SerializeField] int spawningWavesCount;
-        [Tooltip("The amount of enemies that will be spawned in one wave of the spawn attack")]
+        [Tooltip("The amount of enemies that will be spawned in one wave of the spawn attack\n 在生成攻击的一波中生成的敌人数量")]
         [SerializeField] int spawnedEnemiesCount;
-        [Tooltip("The time between waves of spawnAttacks")]
+        [Tooltip("The time between waves of spawnAttacks/n生成攻击波之间的时间")]
         [SerializeField] float durationBetweenSpawning = 1f;
-        [Tooltip("The time the warning circle is active before the enemy is spawned")]
+        [Tooltip("The time the warning circle is active before the enemy is spawned\n 在生成敌人之前警告圈活动的时间")]
         [SerializeField] float durationBetweenWarningAndSpawning = 0.5f;
 
         [Space]

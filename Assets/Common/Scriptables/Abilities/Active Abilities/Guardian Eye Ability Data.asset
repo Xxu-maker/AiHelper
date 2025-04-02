@@ -13,12 +13,13 @@ MonoBehaviour:
   m_Name: Guardian Eye Ability Data
   m_EditorClassIdentifier: 
   type: 1
-  title: Guardian Eye
-  description: Deals damage in a small area around
+  title: "\u5B88\u62A4\u8005\u4E4B\u773C"
+  description: "\u5728\u5468\u56F4\u7684\u5C0F\u533A\u57DF\u9020\u6210\u4F24\u5BB3"
   icon: {fileID: 21300000, guid: 43e89f4117adb7543a2adcc4e982d470, type: 3}
   prefab: {fileID: 6046089768498997805, guid: 7788118687ac2254e9574b5bcaf6d2ff, type: 3}
   isActiveAbility: 1
   isWeaponAbility: 0
+  isEndgameAbility: 0
   isEvolution: 0
   evolutionRequirements: []
   levels:

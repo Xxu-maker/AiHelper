@@ -430,8 +430,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Strikes from above with devastating damage
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4dfcf958076d4184a84bc0cb519c5914, type: 2}
-  m_sharedMaterial: {fileID: 3011222351521239885, guid: 4dfcf958076d4184a84bc0cb519c5914,
+  m_fontAsset: {fileID: 11400000, guid: 16ea04000f4a79e4eae0f34678047288, type: 2}
+  m_sharedMaterial: {fileID: 1061534122526581653, guid: 16ea04000f4a79e4eae0f34678047288,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -462,7 +462,7 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
+  m_fontStyle: 1
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 256
   m_textAlignment: 65535
@@ -1154,8 +1154,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Meteor
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 4dfcf958076d4184a84bc0cb519c5914, type: 2}
-  m_sharedMaterial: {fileID: 3011222351521239885, guid: 4dfcf958076d4184a84bc0cb519c5914,
+  m_fontAsset: {fileID: 11400000, guid: 16ea04000f4a79e4eae0f34678047288, type: 2}
+  m_sharedMaterial: {fileID: 1061534122526581653, guid: 16ea04000f4a79e4eae0f34678047288,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -1186,7 +1186,7 @@ MonoBehaviour:
   m_enableAutoSizing: 1
   m_fontSizeMin: 32
   m_fontSizeMax: 36
-  m_fontStyle: 16
+  m_fontStyle: 17
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 256
   m_textAlignment: 65535
