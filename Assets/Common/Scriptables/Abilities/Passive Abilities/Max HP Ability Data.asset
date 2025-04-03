@@ -13,12 +13,13 @@ MonoBehaviour:
   m_Name: Max HP Ability Data
   m_EditorClassIdentifier: 
   type: 103
-  title: Heart Charm
-  description: Increases maximum HP
+  title: "\u731B\u7537\u7231\u5FC3"
+  description: "\u63D0\u9AD8\u6700\u5927\u8840\u91CF"
   icon: {fileID: 21300000, guid: dcba4ec680d52404a854f60f363ec036, type: 3}
   prefab: {fileID: 5795888989804479914, guid: 2f1a6ab57a918ed498acc33a711c2c27, type: 3}
   isActiveAbility: 0
   isWeaponAbility: 0
+  isEndgameAbility: 0
   isEvolution: 0
   evolutionRequirements: []
   levels:

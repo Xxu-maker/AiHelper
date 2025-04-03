@@ -13,12 +13,13 @@ MonoBehaviour:
   m_Name: Lightning Amulet Ability Data
   m_EditorClassIdentifier: 
   type: 2
-  title: Lightning Amulet
-  description: Strikes with lightning from above
+  title: "\u95EA\u7535\u62A4\u8EAB\u7B26"
+  description: "\u95EA\u7535\u4ECE\u4E0A\u65B9\u88AD\u6765"
   icon: {fileID: 21300000, guid: dee88c54be51e674fb9e4078c61d3cd9, type: 3}
   prefab: {fileID: 4750932732856416329, guid: c37d6662bf5c9b14cbd31a3cf83221c5, type: 3}
   isActiveAbility: 1
   isWeaponAbility: 0
+  isEndgameAbility: 0
   isEvolution: 0
   evolutionRequirements: []
   levels:

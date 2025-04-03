@@ -13,12 +13,13 @@ MonoBehaviour:
   m_Name: Solar Magnifier Ability Data
   m_EditorClassIdentifier: 
   type: 9
-  title: Solar Magnifier
-  description: Projects a powerful sun ray
+  title: "\u592A\u9633\u80FD\u653E\u5927\u955C"
+  description: "\u6295\u5C04\u51FA\u5F3A\u70C8\u7684\u9633\u5149"
   icon: {fileID: 21300000, guid: c4ac29c7394f6bf47a67cdfb92999b25, type: 3}
   prefab: {fileID: 3459857695509158651, guid: dca1e126c4f292044898a3114e53ce78, type: 3}
   isActiveAbility: 1
   isWeaponAbility: 0
+  isEndgameAbility: 0
   isEvolution: 0
   evolutionRequirements: []
   levels:

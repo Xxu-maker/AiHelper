@@ -13,12 +13,13 @@ MonoBehaviour:
   m_Name: Void Star Ability Data
   m_EditorClassIdentifier: 
   type: 200
-  title: Void Star
-  description: Endlessly orbits around, dealing increased damage
+  title: "\u865A\u7A7A\u4E4B\u661F "
+  description: "\u65E0\u4F11\u6B62\u5730\u7ED5\u8F68\u9053\u8FD0\u884C\uFF0C\u9020\u6210\u66F4\u5927\u7684\u4F24\u5BB3"
   icon: {fileID: 21300000, guid: 994260112a138d7429ef45abb62a600a, type: 3}
   prefab: {fileID: 8699148400794714863, guid: 217852fdde3768b44aa28fa5977785dc, type: 3}
   isActiveAbility: 1
   isWeaponAbility: 0
+  isEndgameAbility: 0
   isEvolution: 1
   evolutionRequirements:
   - abilityType: 0

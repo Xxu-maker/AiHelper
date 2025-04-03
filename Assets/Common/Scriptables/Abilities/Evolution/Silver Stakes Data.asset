@@ -13,12 +13,13 @@ MonoBehaviour:
   m_Name: Silver Stakes Data
   m_EditorClassIdentifier: 
   type: 204
-  title: Silver Stakes
-  description: Throws several sharp piercing stakes
+  title: "\u94F6\u6869"
+  description: "\u6295\u63B7\u6570\u6839\u5C16\u9510\u7684\u523A\u6869"
   icon: {fileID: 21300000, guid: 2185583ed30e543468b82c69c813548f, type: 3}
   prefab: {fileID: 5201831521697468584, guid: 1068f86203714a44b8b4576239130948, type: 3}
   isActiveAbility: 1
   isWeaponAbility: 0
+  isEndgameAbility: 0
   isEvolution: 1
   evolutionRequirements:
   - abilityType: 4

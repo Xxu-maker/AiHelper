@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Gold Ability Data
   m_EditorClassIdentifier: 
   type: 111
-  title: Golden Chalice
-  description: Increases incoming gold
+  title: "\u91D1\u676F"
+  description: "\u589E\u52A0\u6536\u5165"
   icon: {fileID: 21300000, guid: b4e7b46556a43e446a743d70e4e2d178, type: 3}
   prefab: {fileID: 122745898579924258, guid: 04f1283494bebfe479049653dcf5d87a, type: 3}
   isActiveAbility: 0

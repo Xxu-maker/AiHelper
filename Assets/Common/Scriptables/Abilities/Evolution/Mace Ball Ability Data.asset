@@ -13,12 +13,13 @@ MonoBehaviour:
   m_Name: Mace Ball Ability Data
   m_EditorClassIdentifier: 
   type: 203
-  title: Mace Ball
-  description: Cute spiky friend
+  title: "\u6885\u65AF\u7403"
+  description: "\u53EF\u7231\u5C16\u5C16\u7684\u670B\u53CB"
   icon: {fileID: 21300000, guid: afbccac59abb33247bb68223c8626582, type: 3}
   prefab: {fileID: 3128169338053202466, guid: e9c46b08cd0ab8d42822b40310707f9b, type: 3}
   isActiveAbility: 1
   isWeaponAbility: 0
+  isEndgameAbility: 0
   isEvolution: 1
   evolutionRequirements:
   - abilityType: 3

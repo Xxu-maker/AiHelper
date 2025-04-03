@@ -13,12 +13,13 @@ MonoBehaviour:
   m_Name: Recoiler Ability Data
   m_EditorClassIdentifier: 
   type: 207
-  title: Recoiler
-  description: Throws an upgraded swift boomerang
+  title: "\u6536\u5377\u673A"
+  description: "\u6295\u63B7\u5347\u7EA7\u7684\u5FEB\u901F\u56DE\u529B\u9556"
   icon: {fileID: 21300000, guid: 94d5132492f5d6a43899713c4cf1e666, type: 3}
   prefab: {fileID: 2769290797171051951, guid: dcb08d2e8637f2b4988c1c7a8c18c9ca, type: 3}
   isActiveAbility: 1
   isWeaponAbility: 0
+  isEndgameAbility: 0
   isEvolution: 1
   evolutionRequirements:
   - abilityType: 7

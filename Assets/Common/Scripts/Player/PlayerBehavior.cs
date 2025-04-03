@@ -93,6 +93,7 @@ namespace OctoberStudio
 
             Character = Instantiate(Data.Prefab).GetComponent<CharacterBehavior>();
             Character.transform.SetParent(transform);
+            //Character.transform.localPosition = Vector3.zero;
             Character.transform.ResetLocal();
 
             instance = this;

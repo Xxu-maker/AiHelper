@@ -22,9 +22,10 @@ namespace OctoberStudio
 
         private static void ActivateGameScene()
         {
-            SceneAsset gameScene = GetAsset<SceneAsset>("Main Menu");
+            SceneAsset gameScene = GetAsset<SceneAsset>("SPUM_Scene");
             if (gameScene != null)
             {
+                Debug.Log("Game scene found: " + gameScene.name);
                 EditorSceneManager.playModeStartScene = gameScene;
             }
         }

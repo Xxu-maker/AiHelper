@@ -13,12 +13,13 @@ MonoBehaviour:
   m_Name: Damage Ability Data
   m_EditorClassIdentifier: 
   type: 102
-  title: Power Gauntlet
-  description: Increases overall damage
+  title: "\u52A8\u529B\u624B\u5957"
+  description: "\u589E\u4F24"
   icon: {fileID: 21300000, guid: c26cc51a8aa4c13408c720657c599338, type: 3}
   prefab: {fileID: 2334075227648824738, guid: ead69ec3e02cc2e449a67317299703df, type: 3}
   isActiveAbility: 0
   isWeaponAbility: 0
+  isEndgameAbility: 0
   isEvolution: 0
   evolutionRequirements: []
   levels:

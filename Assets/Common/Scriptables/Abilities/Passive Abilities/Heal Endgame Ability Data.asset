@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Heal Endgame Ability Data
   m_EditorClassIdentifier: 
   type: 2001
-  title: Heal
-  description: Restore some of your health
+  title: HP
+  description: "\u6062\u590D\u5B66\u8840\u91CF"
   icon: {fileID: 21300000, guid: 28c3cbc02ecf99d45b8092c5628bf0bf, type: 3}
   prefab: {fileID: 7203766295210942642, guid: b9a895d952c9ba442a54bbfbb727a482, type: 3}
   isActiveAbility: 0

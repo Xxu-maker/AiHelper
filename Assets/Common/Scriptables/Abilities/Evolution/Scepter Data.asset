@@ -13,12 +13,13 @@ MonoBehaviour:
   m_Name: Scepter Data
   m_EditorClassIdentifier: 
   type: 1100
-  title: Ancient Scepter
-  description: Launches a powerful barrage of projectiles
+  title: "\u53E4\u4EE3\u6743\u6756"
+  description: "\u53D1\u5C04\u5F3A\u5927\u7684\u9B54\u6CD5i"
   icon: {fileID: 21300000, guid: 93e9dd16346d3b449977187799b746e6, type: 3}
   prefab: {fileID: 2827894307271079447, guid: 9dca4a3aab571e34985d1cc530a9387b, type: 3}
   isActiveAbility: 1
   isWeaponAbility: 1
+  isEndgameAbility: 0
   isEvolution: 1
   evolutionRequirements:
   - abilityType: 1000

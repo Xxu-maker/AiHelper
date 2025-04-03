@@ -13,12 +13,13 @@ MonoBehaviour:
   m_Name: Meteor Ability Data
   m_EditorClassIdentifier: 
   type: 206
-  title: Meteor
-  description: Launches a meteor shower from above
+  title: "\u6D41\u661FX"
+  description: "\u4ECE\u4E0A\u65B9\u53D1\u5C04\u6D41\u661F\u96E8"
   icon: {fileID: 21300000, guid: 96133003953070b4abc7f3ae2a6e4cdb, type: 3}
   prefab: {fileID: 8666185439850298685, guid: aeefd65d7a29fed4a96e4f711db3fc7b, type: 3}
   isActiveAbility: 1
   isWeaponAbility: 0
+  isEndgameAbility: 0
   isEvolution: 1
   evolutionRequirements:
   - abilityType: 6

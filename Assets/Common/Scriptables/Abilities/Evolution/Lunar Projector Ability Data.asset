@@ -13,12 +13,13 @@ MonoBehaviour:
   m_Name: Lunar Projector Ability Data
   m_EditorClassIdentifier: 
   type: 209
-  title: Lunar Projector
-  description: Projects several orbiting light beams
+  title: "\u6708\u7403\u6295\u5F71\u4EEA"
+  description: "\u6295\u5C04\u591A\u4E2A\u8F68\u9053\u5149\u675F"
   icon: {fileID: 21300000, guid: 541dccf93836cd94e9c6898448aafb42, type: 3}
   prefab: {fileID: 1516608455621187079, guid: ac96fd12e1451bf4ebdd339628978cce, type: 3}
   isActiveAbility: 1
   isWeaponAbility: 0
+  isEndgameAbility: 0
   isEvolution: 1
   evolutionRequirements:
   - abilityType: 9

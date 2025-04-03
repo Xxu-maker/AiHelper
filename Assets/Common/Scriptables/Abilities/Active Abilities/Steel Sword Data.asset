@@ -13,12 +13,13 @@ MonoBehaviour:
   m_Name: Steel Sword Data
   m_EditorClassIdentifier: 
   type: 1001
-  title: Steel Sword
-  description: Slashes enemies in front of you
+  title: "\u94A2\u5251"
+  description: "\u6D88\u706D\u4E00\u5207\u654C\u4EBA"
   icon: {fileID: 21300000, guid: f75bf02f0e4a26946a94de1178ad1352, type: 3}
   prefab: {fileID: 5349004258488764192, guid: 1fb009b476592b649aae6523123f1897, type: 3}
   isActiveAbility: 1
   isWeaponAbility: 1
+  isEndgameAbility: 0
   isEvolution: 0
   evolutionRequirements: []
   levels:

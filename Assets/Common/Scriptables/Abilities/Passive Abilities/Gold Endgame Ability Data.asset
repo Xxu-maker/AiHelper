@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: Gold Endgame Ability Data
   m_EditorClassIdentifier: 
   type: 2002
-  title: Gold
-  description: Have some gold!
+  title: "\u91D1"
+  description: "\u6709\u4E00\u4E9B\u9EC4\u91D1\uFF01"
   icon: {fileID: 21300000, guid: c12e57be36f9dc244a7fbd2a51657677, type: 3}
   prefab: {fileID: 7203766295210942642, guid: c66b22e19152c8e4898c7b1f00e36357, type: 3}
   isActiveAbility: 0

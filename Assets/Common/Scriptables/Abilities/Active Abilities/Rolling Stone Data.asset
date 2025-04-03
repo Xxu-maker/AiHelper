@@ -13,12 +13,13 @@ MonoBehaviour:
   m_Name: Rolling Stone Data
   m_EditorClassIdentifier: 
   type: 3
-  title: Rolling Stone
-  description: Rolling friend
+  title: "\u6EDA\u77F3"
+  description: "\u6EDA\u52A8\u7684\u670B\u53CB"
   icon: {fileID: 21300000, guid: 5d17e3fe7deb3c449b42f69343d16183, type: 3}
   prefab: {fileID: 3128169338053202466, guid: 565cc53bad5258c4984210d9f55ab7b2, type: 3}
   isActiveAbility: 1
   isWeaponAbility: 0
+  isEndgameAbility: 0
   isEvolution: 0
   evolutionRequirements: []
   levels:

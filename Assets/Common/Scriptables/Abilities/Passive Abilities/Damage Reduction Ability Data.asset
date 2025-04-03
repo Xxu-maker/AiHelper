@@ -13,12 +13,13 @@ MonoBehaviour:
   m_Name: Damage Reduction Ability Data
   m_EditorClassIdentifier: 
   type: 107
-  title: Titan Shield
-  description: Reduces incoming damage
+  title: "\u6CF0\u5766\u4E4B\u76FE"
+  description: "\u51CF\u4F24"
   icon: {fileID: 21300000, guid: 64917bb6cfcc63a4495308648c35a137, type: 3}
   prefab: {fileID: 9093015508192957762, guid: 14873e52654f8d74cb06443e5f7a6a5e, type: 3}
   isActiveAbility: 0
   isWeaponAbility: 0
+  isEndgameAbility: 0
   isEvolution: 0
   evolutionRequirements: []
   levels:

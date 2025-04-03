@@ -13,12 +13,13 @@ MonoBehaviour:
   m_Name: Cooldown Ability Data
   m_EditorClassIdentifier: 
   type: 105
-  title: Hourglass
-  description: Reduces ability cooldowns
+  title: "\u6C99\u6F0F"
+  description: "\u51CF\u5C11\u51B7\u5374"
   icon: {fileID: 21300000, guid: 0d8a147d40baeee40b67492d75694437, type: 3}
   prefab: {fileID: 6529486900185581019, guid: 8515069691b5ce04ab0103bcd493c550, type: 3}
   isActiveAbility: 0
   isWeaponAbility: 0
+  isEndgameAbility: 0
   isEvolution: 0
   evolutionRequirements: []
   levels:

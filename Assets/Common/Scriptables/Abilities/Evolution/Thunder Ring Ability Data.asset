@@ -13,12 +13,13 @@ MonoBehaviour:
   m_Name: Thunder Ring Ability Data
   m_EditorClassIdentifier: 
   type: 202
-  title: Thunder Ring
-  description: Strikes from above with devastating ball lighning projectiles
+  title: "\u96F7\u94C3"
+  description: "\u7528\u6BC1\u706D\u6027\u7684\u53D1\u5149\u5F39\u4E38\u4ECE\u4E0A\u65B9\u53D1\u8D77\u653B\u51FB"
   icon: {fileID: 21300000, guid: 446ab47c09d6ec245bfd467a6de26e52, type: 3}
   prefab: {fileID: 924860060412471070, guid: 43f0ac2cddc68e54a94d3713d3a8dcf5, type: 3}
   isActiveAbility: 1
   isWeaponAbility: 0
+  isEndgameAbility: 0
   isEvolution: 1
   evolutionRequirements:
   - abilityType: 2
